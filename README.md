@@ -1,2 +1,5 @@
 # hello-world-dia
-Juste débuter avec Git
+Lacina DIANE
+diacloic@smile.ci
+
+Juste débuter avec Git.
